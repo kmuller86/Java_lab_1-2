@@ -34,8 +34,9 @@ public class Main {
 
           Scanner scan = new Scanner(System.in);
           System.out.print("Podaj liczbę A\n");
-          String liczbaa = scan.next();
-
+          int liczbax = scan.nextInt();
+          System.out.print("Podaj liczbę A\n");
+          int liczbay = scan.nextInt();
 
     }
 }
