@@ -55,5 +55,7 @@ public class Main {
         System.out.println("Mnożenie: " + (liczbax * liczbay));
         System.out.println("Dzielenie: " + (liczbax / liczbay));
         System.out.println("Modulo: " + (liczbax % liczbay));
+
+        //Gotowe
     }
 }
