@@ -14,14 +14,19 @@ public class Main {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Podaj imię");
+        System.out.println("Podaj imię");
         String imie = scan.next();
-        System.out.print("Podaj imię");
+        System.out.println("Podaj nazwisko");
         String nazwisko = scan.next();
-        System.out.print("Podaj imię");
+        System.out.println("Podaj wiek");
         String wiek = scan.next();
-        System.out.print("Podaj imię");
+        System.out.println("Podaj indeks");
         String indeks = scan.next();
+
+        System.out.println(imie + " " + nazwisko + " " + wiek);
+        System.out.printf(indeks);
+
+        //Gotowe
 
 
 
