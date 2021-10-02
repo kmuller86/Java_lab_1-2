@@ -33,14 +33,18 @@ public class Main {
         *  */
 
           Scanner scan = new Scanner(System.in);
-          System.out.print("Podaj liczbę X\n");
-          int liczbax = scan.nextInt();
-          System.out.print("Podaj liczbę Y\n");
-          int liczbay = scan.nextInt();
-           System.out.println("Dodawanie: " + (liczbax + liczbay));
-           System.out.println("Odejmowanie: " + (liczbax - liczbay));
-           System.out.println("Mnożenie: " + (liczbax * liczbay));
-           System.out.println("Dzielenie: " + (liczbax / liczbay));
-           System.out.println("Modulo: " + (liczbax % liczbay));
+          System.out.print("Podaj liczbę A\n");
+          int liczbaa = scan.nextInt();
+          System.out.print("Podaj liczbę B\n");
+          int liczbab = scan.nextInt();
+           System.out.println("Dodawanie: " + (liczbaa + liczbab));
+           System.out.println("Odejmowanie: " + (liczbaa - liczbab));
+           System.out.println("Mnożenie: " + (liczbaa * liczbab));
+           System.out.println("Dzielenie: " + (liczbaa / liczbab));
+           System.out.println("Modulo: " + (liczbaa % liczbab));
+        System.out.print("Podaj liczbę X\n");
+        int liczbax = scan.nextInt();
+        System.out.print("Podaj liczbę Y\n");
+        int liczbay = scan.nextInt();
     }
 }
