@@ -17,6 +17,13 @@ public class Main {
         char zmienna5 = 'D';
         String zmienna6 = "Dziesięć";
 
+        System.out.println(zmienna1);
+        System.out.println(zmienna1);
+        System.out.println(zmienna1);
+        System.out.println(zmienna1);
+        System.out.println(zmienna1);
+        System.out.println(zmienna1);
+
 
         /*
         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,
