@@ -10,6 +10,14 @@ public class Main {
 
         /*   zad.1 zadeklaruj i zainicjalizuj zmienne różnych typów i wyświetl w konsoli (im więcej tym lepiej ;) ) */
 
+        byte zmienna1 = 10;
+        short zmienna2 = 10;
+        int zmienna3 = 10;
+        double zmienna4 = 10.10;
+        char zmienna5 = 'D';
+        String zmienna6 = "Dziesięć";
+
+
         /*
         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,
         *    mnożenia, dziealenia i modulo na zmiennych:
