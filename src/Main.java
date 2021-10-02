@@ -33,10 +33,10 @@ public class Main {
         *  */
 
           Scanner scan = new Scanner(System.in);
-          System.out.print("Podaj liczbę A\n");
+          System.out.print("Podaj liczbę X\n");
           int liczbax = scan.nextInt();
-          System.out.print("Podaj liczbę A\n");
+          System.out.print("Podaj liczbę Y\n");
           int liczbay = scan.nextInt();
-
+           System.out.println("Dodawanie: " + (liczbax + liczbay));
     }
 }
