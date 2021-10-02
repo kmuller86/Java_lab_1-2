@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Witam" + " " + "Witam ");
 
-        System.out.printf("A %s zaczynamy z %d przykładem.\n", "więc", 1);
+        System.out.printf("Linia1\n" + "Linia2\n" + "Linia3\n");
 
         System.out.print("Witam");
 
