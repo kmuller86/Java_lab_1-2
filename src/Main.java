@@ -23,7 +23,7 @@ public class Main {
         System.out.println("Podaj indeks");
         String indeks = scan.next();
 
-        System.out.println(imie + " " + nazwisko + " " + wiek);
+        System.out.println(imie + " " + nazwisko + " " + " " + wiek);
         System.out.printf(indeks);
 
         //Gotowe
