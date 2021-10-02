@@ -38,5 +38,8 @@ public class Main {
           System.out.print("Podaj liczbę Y\n");
           int liczbay = scan.nextInt();
            System.out.println("Dodawanie: " + (liczbax + liczbay));
+           System.out.println("Odejmowanie: " + (liczbax - liczbay));
+           System.out.println("Mnożenie: " + (liczbax * liczbay));
+           System.out.println("Dzielenie: " + (liczbax / liczbay));
     }
 }
