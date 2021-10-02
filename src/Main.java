@@ -33,6 +33,7 @@ public class Main {
         *  */
 
           Scanner scan = new Scanner(System.in);
+          System.out.print("Punkt A \n");
           System.out.print("Podaj liczbę A\n");
           int liczbaa = scan.nextInt();
           System.out.print("Podaj liczbę B\n");
@@ -42,6 +43,8 @@ public class Main {
            System.out.println("Mnożenie: " + (liczbaa * liczbab));
            System.out.println("Dzielenie: " + (liczbaa / liczbab));
            System.out.println("Modulo: " + (liczbaa % liczbab));
+
+        System.out.print("Punkt B \n");
         System.out.print("Podaj liczbę X\n");
         int liczbax = scan.nextInt();
         System.out.print("Podaj liczbę Y\n");
