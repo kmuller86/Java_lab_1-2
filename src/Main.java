@@ -7,8 +7,11 @@ public class Main {
         /* ćw.4 */
 
         /* zad.1 proszę dodać kilka złożonych operacji uzywając kilku operatorów arytmetycznych i logicznych */
-   int liczbaa = 5;
-   int liczbab = 5;
+        boolean liczbaa = true;
+        boolean liczbab = false;
+        System.out.println(liczbaa && liczbab);
+        System.out.println(liczbaa || liczbab);
+
 
 
     }
