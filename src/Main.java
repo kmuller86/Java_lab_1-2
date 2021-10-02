@@ -18,11 +18,11 @@ public class Main {
         String zmienna6 = "Dziesięć";
 
         System.out.println(zmienna1);
-        System.out.println(zmienna1);
-        System.out.println(zmienna1);
-        System.out.println(zmienna1);
-        System.out.println(zmienna1);
-        System.out.println(zmienna1);
+        System.out.println(zmienna2);
+        System.out.println(zmienna3);
+        System.out.println(zmienna4);
+        System.out.println(zmienna5);
+        System.out.println(zmienna6);
 
 
         /*
@@ -32,6 +32,9 @@ public class Main {
         *    b) liczbaX i liczbaY, dowolne liczby zmiennoprzecinkowe (double)
         *  */
 
+          Scanner scan = new Scanner(System.in);
+          System.out.print("Podaj liczbę A\n");
+          String liczbaa = scan.next();
 
 
     }
