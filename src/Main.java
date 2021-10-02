@@ -47,6 +47,13 @@ public class Main {
         System.out.print("Punkt B \n");
         System.out.print("Podaj liczbę X\n");
         double liczbax = scan.nextDouble();
-        System.out.println(liczbax);
+        System.out.print("Podaj liczbę Y\n");
+        double liczbay = scan.nextDouble();
+
+        System.out.println("Dodawanie: " + (liczbax + liczbay));
+        System.out.println("Odejmowanie: " + (liczbax - liczbay));
+        System.out.println("Mnożenie: " + (liczbax * liczbay));
+        System.out.println("Dzielenie: " + (liczbax / liczbay));
+        System.out.println("Modulo: " + (liczbax % liczbay));
     }
 }
