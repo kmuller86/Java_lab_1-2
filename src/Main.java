@@ -9,6 +9,7 @@ public class Main {
         /* zad1. stworzyć tablicę typu double 5-cio elementową,
         przypisać do niej wartości i wyświetlić */
 
+        /* ogólnie to dobrze, ale liczyłem że pan się bardziej wysili, chociażby wprowadzi liczby przecinkowe albo użyje pętli */
 
         double [] tablica = new double[5];
         tablica[0] = 1;
